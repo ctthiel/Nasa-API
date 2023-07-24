@@ -1,0 +1,45 @@
+body {
+    background-image: url(meow.jpg);
+    color: white;
+    text-align: center;
+}
+
+.apod {
+    text-decoration: none;
+    color:white;
+    padding: 8px 20px;
+    border-radius: 27px;
+    margin: 0 15px;
+    background-color: #607D8B;
+}
+
+.container1 {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.navbar {
+    text-decoration: none;
+    color:white;
+    padding: 8px 20px;
+    border-radius: 27px;
+    margin: 0 15px;
+    background-color:darkcyan;
+    margin-right: 130px;
+}
+
+.image {
+    display:flex;
+    margin-left: 275px;
+}
+
+.personal {
+    text-decoration: none;
+    color:white;
+    padding: 8px 20px;
+    border-radius: 27px;
+    margin: 0 15px;
+    background-color: #607D8B;
+}
